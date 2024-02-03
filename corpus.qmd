@@ -42,7 +42,7 @@ The corpus follows a `tidy data` approach [@wickham2014tidy], so little (if any)
 
 ---
 
-### Download corpus
+### {{<fa database size="xs">}} Download corpus
 
 To access the corpus, click <a href = "https://osf.io/63nrx/" target = "_blank">**here**</a>. We highly recommend that you load `tidyverse` *before* loading the corpus itself.
 
